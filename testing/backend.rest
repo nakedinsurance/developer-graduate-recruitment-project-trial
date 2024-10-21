@@ -1,0 +1,13 @@
+@BASE_URL = http://localhost:3000
+
+###
+# Component 1 call
+
+GET {{BASE_URL}}/api/component1 HTTP/1.1
+content-type: application/json
+
+###
+# Component 2 call
+
+GET {{BASE_URL}}/api/component2 HTTP/1.1
+content-type: application/json

@@ -1,0 +1,1723 @@
+{
+    "product": [
+      {
+        "productId": "f966934e-883e-4c6f-ab34-aeeeb764ccc7",
+        "category": "Phone",
+        "name": "iPhone 14 Pro Max",
+        "description": "High-end flagship phone",
+        "price": "27,999",
+        "stock": 1
+      },
+      {
+        "productId": "c82f9ef5-6ab0-4b54-885b-7963f00b6144",
+        "category": "Phone",
+        "name": "Samsung Galaxy S23 Ultra",
+        "description": "High-end flagship phone",
+        "price": "25,499",
+        "stock": 1
+      },
+      {
+        "productId": "d37b5201-e2b1-4565-a221-dde51a15775c",
+        "category": "Phone",
+        "name": "Google Pixel 7 Pro",
+        "description": "Flagship phone with advanced camera",
+        "price": "20,999",
+        "stock": 2
+      },
+      {
+        "productId": "a60ff54e-216f-4f94-86b0-7d00692ca069",
+        "category": "Phone",
+        "name": "Huawei P50 Pro",
+        "description": "High-end phone with Leica cameras",
+        "price": "18,999",
+        "stock": 1
+      },
+      {
+        "productId": "dcb0ff20-2473-4da3-bd1a-135c65593992",
+        "category": "Phone",
+        "name": "OnePlus 11",
+        "description": "Premium phone with high-performance specs",
+        "price": "16,499",
+        "stock": 3
+      },
+      {
+        "productId": "b6d25500-85f7-4521-833a-106180feee2d",
+        "category": "Phone",
+        "name": "Xiaomi 12 Pro",
+        "description": "Flagship killer with excellent value",
+        "price": "14,999",
+        "stock": 2
+      },
+      {
+        "productId": "bc3e7a70-cb99-4717-b36e-ad64209901f2",
+        "category": "Phone",
+        "name": "Samsung Galaxy A54",
+        "description": "Mid-range phone with solid performance",
+        "price": "9,499",
+        "stock": 4
+      },
+      {
+        "productId": "d41cc709-c9a5-47ab-947f-655506aff6a1",
+        "category": "Phone",
+        "name": "Oppo Reno7",
+        "description": "Stylish mid-range phone",
+        "price": "7,999",
+        "stock": 5
+      },
+      {
+        "productId": "8fe62661-032a-44d2-980a-2c9fac95c222",
+        "category": "Phone",
+        "name": "Huawei Nova Y70",
+        "description": "Affordable phone with large battery",
+        "price": "4,499",
+        "stock": 5
+      },
+      {
+        "productId": "a0e7dcf7-fd9c-418a-ab1e-ffaab17f7a6a",
+        "category": "Phone",
+        "name": "Nokia C10",
+        "description": "Very affordable entry-level smartphone",
+        "price": "1,299",
+        "stock": 2
+      },
+      {
+        "productId": "859ac105-2617-43e4-ae00-5810aa5ddb56",
+        "category": "Tablet",
+        "name": "Apple iPad Pro 12.9\" (5th Gen)",
+        "description": "High-end professional tablet with M1 chip",
+        "price": "31,999",
+        "stock": 1
+      },
+      {
+        "productId": "a6947aac-63d5-46cd-b2c6-af98e939a194",
+        "category": "Tablet",
+        "name": "Samsung Galaxy Tab S8 Ultra",
+        "description": "Premium large-screen Android tablet",
+        "price": "23,999",
+        "stock": 1
+      },
+      {
+        "productId": "4d1a093c-8981-4a60-a8c9-eccc40283a19",
+        "category": "Tablet",
+        "name": "Microsoft Surface Pro 8",
+        "description": "High-performance 2-in-1 tablet and laptop",
+        "price": "21,999",
+        "stock": 2
+      },
+      {
+        "productId": "6ffd27d7-56f3-47dd-9ce6-10eb320da31e",
+        "category": "Tablet",
+        "name": "Apple iPad Air (4th Gen)",
+        "description": "Mid-range tablet with high performance and lightweight design",
+        "price": "15,499",
+        "stock": 1
+      },
+      {
+        "productId": "a9965dfd-182a-4744-a087-9586393d997c",
+        "category": "Tablet",
+        "name": "Samsung Galaxy Tab S7 FE",
+        "description": "Upper mid-range tablet with a large display",
+        "price": "12,999",
+        "stock": 3
+      },
+      {
+        "productId": "c281a0f5-a0d2-4285-b9ad-64e84b61be3d",
+        "category": "Tablet",
+        "name": "Huawei MatePad Pro",
+        "description": "Premium Android tablet with great display",
+        "price": "10,499",
+        "stock": 2
+      },
+      {
+        "productId": "fd181be8-909b-4049-8198-6a538dd9f558",
+        "category": "Tablet",
+        "name": "Lenovo Tab P11 Pro",
+        "description": "High-quality tablet with solid performance",
+        "price": "9,499",
+        "stock": 3
+      },
+      {
+        "productId": "84dd7781-899b-4f8e-81c0-570e11732987",
+        "category": "Tablet",
+        "name": "Samsung Galaxy Tab A8",
+        "description": "Affordable mid-range tablet for daily use",
+        "price": "5,499",
+        "stock": 5
+      },
+      {
+        "productId": "6f938d8f-9176-45a8-b78b-0c584e3fa1bb",
+        "category": "Tablet",
+        "name": "TCL 10 Tab Max",
+        "description": "Budget-friendly tablet with decent performance",
+        "price": "3,999",
+        "stock": 5
+      },
+      {
+        "productId": "4f72bf04-002b-4f21-89c4-049971af5bdf",
+        "category": "Tablet",
+        "name": "Lenovo Tab M7",
+        "description": "Very affordable entry-level tablet",
+        "price": "1,499",
+        "stock": 2
+      },
+      {
+        "productId": "e2a9566b-c986-4ac9-bab8-60ea58e401ea",
+        "category": "Camera",
+        "name": "Canon EOS R5",
+        "description": "Professional full-frame mirrorless camera",
+        "price": "72,999",
+        "stock": 1
+      },
+      {
+        "productId": "effb8438-d941-4b16-b6f7-bf69da6722fe",
+        "category": "Camera",
+        "name": "Sony Alpha 1 (A1)",
+        "description": "High-end professional mirrorless camera",
+        "price": "94,999",
+        "stock": 0
+      },
+      {
+        "productId": "b9f59631-7edc-437a-ae6f-9e76ff211616",
+        "category": "Camera",
+        "name": "Nikon Z7 II",
+        "description": "Full-frame mirrorless camera for professionals",
+        "price": "63,999",
+        "stock": 2
+      },
+      {
+        "productId": "04baafd4-cf54-4808-be3b-811f0ffd5470",
+        "category": "Camera",
+        "name": "Fujifilm GFX 100S",
+        "description": "Medium format camera for professional photographers",
+        "price": "124,999",
+        "stock": 1
+      },
+      {
+        "productId": "3becd0da-ed33-491c-9291-4b85ce7750f7",
+        "category": "Camera",
+        "name": "Sony A7C",
+        "description": "Compact full-frame mirrorless camera",
+        "price": "34,999",
+        "stock": 3
+      },
+      {
+        "productId": "338b7bd0-f526-4874-8f57-07374d65d3d6",
+        "category": "Camera",
+        "name": "Canon EOS 90D",
+        "description": "High-end DSLR for enthusiasts and professionals",
+        "price": "24,499",
+        "stock": 2
+      },
+      {
+        "productId": "ab417730-9e06-470f-9790-b8a1c315159b",
+        "category": "Camera",
+        "name": "Nikon D7500",
+        "description": "Advanced DSLR for enthusiasts",
+        "price": "18,999",
+        "stock": 4
+      },
+      {
+        "productId": "1a5a789d-3faf-4a75-b6c5-a1bed741e174",
+        "category": "Camera",
+        "name": "Olympus OM-D E-M10 Mark IV",
+        "description": "Mid-range mirrorless camera for casual and hobbyist photographers",
+        "price": "12,999",
+        "stock": 4
+      },
+      {
+        "productId": "358b69e5-dc03-4dc3-b8d1-dca9cf6f0eb8",
+        "category": "Camera",
+        "name": "Sony ZV-1",
+        "description": "Compact camera designed for vloggers",
+        "price": "11,499",
+        "stock": 5
+      },
+      {
+        "productId": "a6184415-8d99-41ef-a7ca-68866a789153",
+        "category": "Camera",
+        "name": "Canon PowerShot SX540 HS",
+        "description": "Affordable superzoom compact camera",
+        "price": "5,999",
+        "stock": 2
+      },
+      {
+        "productId": "fc57f087-561d-4a7b-8486-4abd62396d4d",
+        "category": "Laptop",
+        "name": "Apple MacBook Pro 16\" (M2 Max)",
+        "description": "High-end professional laptop with M2 Max chip",
+        "price": "62,999",
+        "stock": 1
+      },
+      {
+        "productId": "85711bc3-f2fb-4d36-9f39-6f80b2d12045",
+        "category": "Laptop",
+        "name": "Dell XPS 15 (2023)",
+        "description": "Premium ultrabook with powerful performance and stunning display",
+        "price": "47,999",
+        "stock": 1
+      },
+      {
+        "productId": "30076fd4-b972-41c9-afa2-6faac08ae90d",
+        "category": "Laptop",
+        "name": "Microsoft Surface Laptop Studio",
+        "description": "High-performance 2-in-1 laptop for creators and professionals",
+        "price": "39,999",
+        "stock": 2
+      },
+      {
+        "productId": "ca7129c3-bb26-4161-bb5d-10f68733e0c6",
+        "category": "Laptop",
+        "name": "Razer Blade 15 Advanced (2023)",
+        "description": "High-end gaming laptop with powerful graphics",
+        "price": "44,999",
+        "stock": 1
+      },
+      {
+        "productId": "d5ee3bad-fb70-4184-b28c-6b9a965e70b6",
+        "category": "Laptop",
+        "name": "HP Spectre x360 14",
+        "description": "Premium convertible 2-in-1 laptop with excellent design",
+        "price": "31,499",
+        "stock": 3
+      },
+      {
+        "productId": "b02ccb57-6223-4496-b94e-b0d4b7972f5c",
+        "category": "Laptop",
+        "name": "Apple MacBook Air (M2, 2022)",
+        "description": "Lightweight and powerful MacBook for everyday use",
+        "price": "25,499",
+        "stock": 2
+      },
+      {
+        "productId": "c6e2f8fd-7ffd-45fb-a35e-70519841715b",
+        "category": "Laptop",
+        "name": "ASUS ROG Zephyrus G14",
+        "description": "High-performance gaming laptop with compact design",
+        "price": "24,999",
+        "stock": 4
+      },
+      {
+        "productId": "ee5a859f-6af2-48a7-8373-b55f5b0874da",
+        "category": "Laptop",
+        "name": "Lenovo Yoga 7i",
+        "description": "Mid-range 2-in-1 laptop with good performance and portability",
+        "price": "17,999",
+        "stock": 5
+      },
+      {
+        "productId": "495ca07e-64ad-4038-857e-f40be4ca575b",
+        "category": "Laptop",
+        "name": "Acer Aspire 5",
+        "description": "Affordable everyday laptop for work and study",
+        "price": "11,999",
+        "stock": 5
+      },
+      {
+        "productId": "fa0f521a-cc1e-4ce8-a50d-b0a1605c7424",
+        "category": "Laptop",
+        "name": "HP Pavilion 15",
+        "description": "Budget-friendly laptop with decent performance for basic tasks",
+        "price": "8,499",
+        "stock": 2
+      },
+      {
+        "productId": "1a6484f6-d1d2-40a8-a39d-59417642a9ae",
+        "category": "Desktop",
+        "name": "Apple Mac Pro (2023)",
+        "description": "High-end professional desktop for advanced computing and rendering",
+        "price": "179,999",
+        "stock": 1
+      },
+      {
+        "productId": "da2b049d-e451-4afe-8027-2307d21fce38",
+        "category": "Desktop",
+        "name": "Alienware Aurora R13",
+        "description": "High-performance gaming desktop with powerful GPU and CPU",
+        "price": "64,999",
+        "stock": 1
+      },
+      {
+        "productId": "9ba38646-6cf0-4e55-9bfd-c85a04155650",
+        "category": "Desktop",
+        "name": "HP Omen 45L",
+        "description": "Premium gaming desktop with high-end specs for enthusiasts",
+        "price": "52,999",
+        "stock": 2
+      },
+      {
+        "productId": "5c80050e-ee27-49c9-a65d-83cc3457d5a6",
+        "category": "Desktop",
+        "name": "Dell XPS Desktop (Special Edition)",
+        "description": "High-end desktop for professional creators and power users",
+        "price": "39,999",
+        "stock": 1
+      },
+      {
+        "productId": "780d4f92-e00d-4d20-846d-f6a0d03deba6",
+        "category": "Desktop",
+        "name": "Corsair One i300",
+        "description": "Compact desktop with advanced cooling for gaming and professional tasks",
+        "price": "49,999",
+        "stock": 3
+      },
+      {
+        "productId": "72384ab9-47db-4352-bf34-8a3bbc0885fa",
+        "category": "Desktop",
+        "name": "Lenovo Legion Tower 7i",
+        "description": "Gaming desktop with excellent cooling and powerful graphics",
+        "price": "28,999",
+        "stock": 2
+      },
+      {
+        "productId": "78d077c4-61dd-4bf8-88dc-bd568f788f6c",
+        "category": "Desktop",
+        "name": "HP Envy Desktop",
+        "description": "High-performance desktop for content creation and heavy multitasking",
+        "price": "24,499",
+        "stock": 4
+      },
+      {
+        "productId": "69571681-c134-4c07-bd3b-21efaffdce52",
+        "category": "Desktop",
+        "name": "Acer Aspire TC",
+        "description": "Mid-range desktop for everyday productivity and multimedia tasks",
+        "price": "15,999",
+        "stock": 5
+      },
+      {
+        "productId": "db309ec3-1b2c-4d88-b57c-3567ab13ce20",
+        "category": "Desktop",
+        "name": "Dell Inspiron Desktop 3891",
+        "description": "Budget-friendly desktop for basic computing and home use",
+        "price": "9,999",
+        "stock": 5
+      },
+      {
+        "productId": "30e6de64-5573-46c6-9daf-fca44209ed71",
+        "category": "Desktop",
+        "name": "Lenovo IdeaCentre 3",
+        "description": "Affordable desktop for casual users and students",
+        "price": "7,499",
+        "stock": 2
+      },
+      {
+        "productId": "55d547e8-e2a9-475d-9eff-fa4050ab3add",
+        "category": "Television",
+        "name": "LG OLED77C1 77\" 4K Smart OLED TV",
+        "description": "Premium 4K OLED TV with stunning visuals and smart features",
+        "price": "74,999",
+        "stock": 1
+      },
+      {
+        "productId": "9c018401-7da3-445c-9a31-c6f815855c1a",
+        "category": "Television",
+        "name": "Samsung QN85A 85\" Neo QLED 4K Smart TV",
+        "description": "High-end 4K QLED TV with advanced HDR and smart features",
+        "price": "69,999",
+        "stock": 1
+      },
+      {
+        "productId": "773e1ad7-a154-4ee8-92f2-c934352a0c43",
+        "category": "Television",
+        "name": "Sony BRAVIA XR A90J 65\" OLED 4K TV",
+        "description": "Top-tier 4K OLED TV with the latest XR picture technology",
+        "price": "54,999",
+        "stock": 2
+      },
+      {
+        "productId": "f0e84a85-dc51-4cfc-a6de-88c0cda2a194",
+        "category": "Television",
+        "name": "Hisense 75U8G 75\" ULED 4K Smart TV",
+        "description": "High-performance ULED TV with 4K resolution and full array local dimming",
+        "price": "39,999",
+        "stock": 1
+      },
+      {
+        "productId": "99be1f12-3583-4ee1-8350-01932dca5c8e",
+        "category": "Television",
+        "name": "Samsung Q60A 65\" QLED 4K Smart TV",
+        "description": "Mid-range 4K QLED TV with vibrant colors and smart capabilities",
+        "price": "24,999",
+        "stock": 3
+      },
+      {
+        "productId": "e030e8d2-c086-46d2-80c0-d95e6fc3bde7",
+        "category": "Television",
+        "name": "LG NanoCell 65NANO86 65\" 4K Smart TV",
+        "description": "4K NanoCell TV with high color accuracy and HDR support",
+        "price": "22,999",
+        "stock": 2
+      },
+      {
+        "productId": "f792cea7-23be-4701-83c3-924cf98977c1",
+        "category": "Television",
+        "name": "TCL 65C815 65\" QLED 4K Smart TV",
+        "description": "Budget-friendly 4K QLED TV with HDR support and Android TV",
+        "price": "15,999",
+        "stock": 7
+      },
+      {
+        "productId": "57f743fb-8b90-413e-bedf-8fd3108a0206",
+        "category": "Television",
+        "name": "Hisense 55A6G 55\" UHD 4K Smart TV",
+        "description": "Affordable 4K TV with smart features and decent picture quality",
+        "price": "8,999",
+        "stock": 5
+      },
+      {
+        "productId": "c843ba02-4f2f-4d6c-98de-e4948cc70d9b",
+        "category": "Television",
+        "name": "Skyworth 50TB7000 50\" UHD 4K Android TV",
+        "description": "Affordable Android TV with 4K resolution and smart features",
+        "price": "6,999",
+        "stock": 5
+      },
+      {
+        "productId": "e126868f-9302-4c10-9560-7898b34af4db",
+        "category": "Television",
+        "name": "JVC LT-40N7115 40\" Full HD Smart LED TV",
+        "description": "Budget-friendly Full HD TV with basic smart features",
+        "price": "4,499",
+        "stock": 2
+      },
+      {
+        "productId": "6b4967a2-189d-4a1d-a85c-d659ea4ad355",
+        "category": "Monitor",
+        "name": "Dell UltraSharp U4320Q 43\" 4K Monitor",
+        "description": "High-end 4K monitor with ultra-wide display for professional use",
+        "price": "26,999",
+        "stock": 1
+      },
+      {
+        "productId": "bb816191-4744-4d41-b024-0dd5f356393c",
+        "category": "Monitor",
+        "name": "Apple Pro Display XDR 32\" 6K Monitor",
+        "description": "Professional-grade 6K monitor with advanced color accuracy and brightness",
+        "price": "79,999",
+        "stock": 0
+      },
+      {
+        "productId": "1b0ba82c-b4f4-4787-949f-6e3867f2d1f5",
+        "category": "Monitor",
+        "name": "Samsung Odyssey G9 49\" Curved QHD Gaming Monitor",
+        "description": "Premium ultra-wide curved gaming monitor with QHD resolution and high refresh rate",
+        "price": "34,999",
+        "stock": 2
+      },
+      {
+        "productId": "68185c5a-aca5-451d-b8fe-cdeb345ece3e",
+        "category": "Monitor",
+        "name": "LG UltraGear 38GN950-B 38\" Curved QHD Monitor",
+        "description": "High-end curved monitor with G-Sync for gaming and productivity",
+        "price": "24,999",
+        "stock": 1
+      },
+      {
+        "productId": "034a0562-3b2c-4ea5-a656-f819109d7405",
+        "category": "Monitor",
+        "name": "ASUS ROG Swift PG32UQ 32\" 4K Gaming Monitor",
+        "description": "High-performance 4K gaming monitor with HDR and G-Sync compatibility",
+        "price": "22,499",
+        "stock": 3
+      },
+      {
+        "productId": "74d757d2-4b82-4f7b-964d-1816f51bf8c0",
+        "category": "Monitor",
+        "name": "BenQ PD3200U 32\" 4K Designer Monitor",
+        "description": "4K monitor designed for creative professionals with excellent color accuracy",
+        "price": "18,999",
+        "stock": 2
+      },
+      {
+        "productId": "ea2c9075-f38c-43f7-a2a9-57fb827be4fc",
+        "category": "Monitor",
+        "name": "AOC U2790PQU 27\" 4K Monitor",
+        "description": "Affordable 4K monitor with IPS panel for professional and casual use",
+        "price": "9,999",
+        "stock": 4
+      },
+      {
+        "productId": "7f8de3cd-755a-4e1d-9ec8-99c2d1744b22",
+        "category": "Monitor",
+        "name": "Samsung Odyssey G5 27\" Curved QHD Gaming Monitor",
+        "description": "Mid-range curved gaming monitor with QHD resolution and 144Hz refresh rate",
+        "price": "7,499",
+        "stock": 5
+      },
+      {
+        "productId": "a0b1d45a-bf7f-43e6-8332-117f3c719b92",
+        "category": "Monitor",
+        "name": "Dell S2421H 24\" Full HD Monitor",
+        "description": "Budget-friendly monitor with Full HD resolution and slim bezels",
+        "price": "4,499",
+        "stock": 5
+      },
+      {
+        "productId": "cae33bcb-1d4f-454d-a162-9d0705f3ec8a",
+        "category": "Monitor",
+        "name": "LG 22MK430H 22\" Full HD Monitor",
+        "description": "Affordable Full HD monitor with IPS display for everyday use",
+        "price": "2,499",
+        "stock": 2
+      },
+      {
+        "productId": "05e26784-00a4-4635-9bd2-3884b44899cb",
+        "category": "Smartwatch",
+        "name": "Apple Watch Ultra",
+        "description": "High-end rugged smartwatch with advanced health tracking and diving features",
+        "price": "18,999",
+        "stock": 1
+      },
+      {
+        "productId": "f155e82e-014f-42b6-8333-e91b9c8a1162",
+        "category": "Smartwatch",
+        "name": "TAG Heuer Connected Modular 45",
+        "description": "Luxury smartwatch with customizable design and premium build quality",
+        "price": "25,999",
+        "stock": 1
+      },
+      {
+        "productId": "af7c6f0b-ee9d-4ef9-9ad0-ecd2d0fba7c7",
+        "category": "Smartwatch",
+        "name": "Garmin Fenix 7X Sapphire Solar",
+        "description": "High-end multisport GPS smartwatch with solar charging and advanced fitness tracking",
+        "price": "17,999",
+        "stock": 2
+      },
+      {
+        "productId": "1e0acd16-29b2-4831-a47a-8702f12fe07b",
+        "category": "Smartwatch",
+        "name": "Samsung Galaxy Watch5 Pro",
+        "description": "Premium smartwatch with advanced fitness tracking and long battery life",
+        "price": "11,499",
+        "stock": 1
+      },
+      {
+        "productId": "9850f5eb-c18d-4916-b891-f6c81bb207e2",
+        "category": "Smartwatch",
+        "name": "Apple Watch Series 8",
+        "description": "Popular high-end smartwatch with ECG and blood oxygen monitoring",
+        "price": "9,499",
+        "stock": 2
+      },
+      {
+        "productId": "37714786-032f-4225-bdeb-90f7f7adab4b",
+        "category": "Smartwatch",
+        "name": "Garmin Forerunner 955",
+        "description": "Advanced GPS running smartwatch with long battery life and training features",
+        "price": "8,999",
+        "stock": 2
+      },
+      {
+        "productId": "020e1611-398b-4bbb-aaf4-0985181fd6f0",
+        "category": "Smartwatch",
+        "name": "Fitbit Sense 2",
+        "description": "Health-focused smartwatch with stress management and ECG monitoring",
+        "price": "6,499",
+        "stock": 6
+      },
+      {
+        "productId": "11e98d0f-c3ef-452a-b0d1-9147fc876c00",
+        "category": "Smartwatch",
+        "name": "Huawei Watch GT 3 Pro",
+        "description": "Stylish smartwatch with robust fitness tracking and long battery life",
+        "price": "5,999",
+        "stock": 5
+      },
+      {
+        "productId": "e66c6666-4913-43b8-b77e-410e00c4e422",
+        "category": "Smartwatch",
+        "name": "Amazfit GTR 4",
+        "description": "Affordable smartwatch with built-in GPS and health monitoring",
+        "price": "3,999",
+        "stock": 5
+      },
+      {
+        "productId": "bcaf6405-2599-4498-a9a3-3245321c165f",
+        "category": "Smartwatch",
+        "name": "Xiaomi Mi Watch Lite",
+        "description": "Budget-friendly smartwatch with essential fitness tracking and long battery life",
+        "price": "1,299",
+        "stock": 10
+      },
+      {
+        "productId": "c7619e0c-c2ad-4a78-b280-b84a9a161318",
+        "category": "Headphone",
+        "name": "Focal Utopia",
+        "description": "High-end audiophile-grade over-ear open-back headphones",
+        "price": "65,999",
+        "stock": 1
+      },
+      {
+        "productId": "a9a9b185-9f9f-461c-8681-684e8122721e",
+        "category": "Headphone",
+        "name": "Audeze LCD-4",
+        "description": "Premium planar magnetic headphones with exceptional sound quality",
+        "price": "54,999",
+        "stock": 1
+      },
+      {
+        "productId": "ac32d8e8-c6cf-46b6-afb2-a307316001d5",
+        "category": "Headphone",
+        "name": "Sony WH-1000XM5",
+        "description": "Premium wireless noise-canceling over-ear headphones",
+        "price": "8,499",
+        "stock": 2
+      },
+      {
+        "productId": "8972cd7d-c0d6-4ef9-ba52-873c21f9a1a2",
+        "category": "Headphone",
+        "name": "Bose Noise Cancelling Headphones 700",
+        "description": "High-end noise-canceling over-ear headphones with excellent sound and call quality",
+        "price": "7,499",
+        "stock": 1
+      },
+      {
+        "productId": "a3a56f6e-23bf-4b9a-8b06-c6664e902c13",
+        "category": "Headphone",
+        "name": "Sennheiser Momentum 4 Wireless",
+        "description": "Wireless over-ear headphones with active noise cancellation and premium sound",
+        "price": "6,999",
+        "stock": 3
+      },
+      {
+        "productId": "01fd47be-4e56-4f03-9bd9-f332d0aa5d3d",
+        "category": "Headphone",
+        "name": "Apple AirPods Max",
+        "description": "High-end over-ear headphones with noise cancellation and immersive sound",
+        "price": "11,499",
+        "stock": 2
+      },
+      {
+        "productId": "5fcb516f-d9dd-4efd-9f22-cbd146911565",
+        "category": "Headphone",
+        "name": "Bowers & Wilkins PX7",
+        "description": "Premium wireless over-ear headphones with noise cancellation and top-tier sound",
+        "price": "6,499",
+        "stock": 4
+      },
+      {
+        "productId": "7f679b11-a953-4203-902e-5d7dc2d744f2",
+        "category": "Headphone",
+        "name": "Beats Studio 3 Wireless",
+        "description": "Wireless noise-canceling headphones with powerful bass and Apple integration",
+        "price": "5,999",
+        "stock": 3
+      },
+      {
+        "productId": "28c0abf9-a098-4183-91bd-917b0f539483",
+        "category": "Headphone",
+        "name": "JBL Live 660NC",
+        "description": "Mid-range over-ear wireless headphones with active noise cancellation",
+        "price": "3,299",
+        "stock": 5
+      },
+      {
+        "productId": "79299306-1394-4032-8e97-27653107d274",
+        "category": "Headphone",
+        "name": "Sony WH-CH710N",
+        "description": "Affordable wireless over-ear noise-canceling headphones",
+        "price": "2,499",
+        "stock": 7
+      }
+    ],
+    "customer": [
+      {
+        "customerId": "cdad3ffd-f5d6-488e-b76f-a92a151b7c72",
+        "name": "Alexander Tapia",
+        "email": "phillipsilva@example.com",
+        "age": 39,
+        "gender": "male",
+        "products": [
+          "e2a9566b-c986-4ac9-bab8-60ea58e401ea",
+          "358b69e5-dc03-4dc3-b8d1-dca9cf6f0eb8",
+          "11e98d0f-c3ef-452a-b0d1-9147fc876c00",
+          "f155e82e-014f-42b6-8333-e91b9c8a1162"
+        ]
+      },
+      {
+        "customerId": "0fbb07a7-8454-487d-861f-04af55dbea0b",
+        "name": "Alan Johnson",
+        "email": "samuel29@example.org",
+        "age": 58,
+        "gender": "female",
+        "products": ["358b69e5-dc03-4dc3-b8d1-dca9cf6f0eb8"]
+      },
+      {
+        "customerId": "e1dde6d3-f41d-4b38-ac0a-1da3e9929aaf",
+        "name": "Patrick Wallace",
+        "email": "cody21@example.com",
+        "age": 24,
+        "gender": "male",
+        "products": [
+          "72384ab9-47db-4352-bf34-8a3bbc0885fa",
+          "a9a9b185-9f9f-461c-8681-684e8122721e",
+          "01fd47be-4e56-4f03-9bd9-f332d0aa5d3d"
+        ]
+      },
+      {
+        "customerId": "696fd9c7-085c-47e7-9d0a-8e0b68f347fa",
+        "name": "Sara Burns",
+        "email": "jessicaschneider@example.org",
+        "age": 28,
+        "gender": "female",
+        "products": ["b02ccb57-6223-4496-b94e-b0d4b7972f5c", "a6947aac-63d5-46cd-b2c6-af98e939a194"]
+      },
+      {
+        "customerId": "0d891e8f-5278-4f06-97aa-1600a71e0586",
+        "name": "Kayla Wells",
+        "email": "george52@example.com",
+        "age": 52,
+        "gender": "male",
+        "products": ["859ac105-2617-43e4-ae00-5810aa5ddb56", "fd181be8-909b-4049-8198-6a538dd9f558"]
+      },
+      {
+        "customerId": "66849eb3-f259-41f4-961b-8e155fb94abf",
+        "name": "Nancy Mcclain",
+        "email": "leestephanie@example.com",
+        "age": 40,
+        "gender": "male",
+        "products": ["7f8de3cd-755a-4e1d-9ec8-99c2d1744b22", "bb816191-4744-4d41-b024-0dd5f356393c"]
+      },
+      {
+        "customerId": "03ca8d20-cb2f-4eec-a5e2-bd0cfe098f51",
+        "name": "Sheena Brown",
+        "email": "tshaw@example.org",
+        "age": 50,
+        "gender": "male",
+        "products": ["84dd7781-899b-4f8e-81c0-570e11732987", "e126868f-9302-4c10-9560-7898b34af4db"]
+      },
+      {
+        "customerId": "44f2f7f8-2612-4dc8-981d-0337e2d7fd48",
+        "name": "Ashley Andrade",
+        "email": "lcox@example.com",
+        "age": 45,
+        "gender": "male",
+        "products": ["e126868f-9302-4c10-9560-7898b34af4db"]
+      },
+      {
+        "customerId": "c38b2fff-baba-4d31-9d97-e45d853b9cad",
+        "name": "Catherine Gray",
+        "email": "sstone@example.com",
+        "age": 63,
+        "gender": "female",
+        "products": [
+          "4f72bf04-002b-4f21-89c4-049971af5bdf",
+          "84dd7781-899b-4f8e-81c0-570e11732987",
+          "3becd0da-ed33-491c-9291-4b85ce7750f7",
+          "e2a9566b-c986-4ac9-bab8-60ea58e401ea"
+        ]
+      },
+      {
+        "customerId": "af9e04d8-cb33-44ab-86d0-cb06ca721d70",
+        "name": "Jason Shaw",
+        "email": "shane70@example.com",
+        "age": 33,
+        "gender": "male",
+        "products": ["a6184415-8d99-41ef-a7ca-68866a789153", "338b7bd0-f526-4874-8f57-07374d65d3d6"]
+      },
+      {
+        "customerId": "39d4151f-da59-43ef-83aa-4ee3dbd5af1f",
+        "name": "Ashley Li",
+        "email": "stephanie56@example.com",
+        "age": 42,
+        "gender": "female",
+        "products": [
+          "6ffd27d7-56f3-47dd-9ce6-10eb320da31e",
+          "859ac105-2617-43e4-ae00-5810aa5ddb56",
+          "04baafd4-cf54-4808-be3b-811f0ffd5470",
+          "e2a9566b-c986-4ac9-bab8-60ea58e401ea"
+        ]
+      },
+      {
+        "customerId": "df0c33e1-5a46-4748-a0c2-32499ad318ef",
+        "name": "Kathleen Bird",
+        "email": "belljennifer@example.org",
+        "age": 29,
+        "gender": "male",
+        "products": ["bcaf6405-2599-4498-a9a3-3245321c165f", "a0e7dcf7-fd9c-418a-ab1e-ffaab17f7a6a"]
+      },
+      {
+        "customerId": "cc6ca37e-1db0-4999-b671-05312c11933e",
+        "name": "Heidi Watson",
+        "email": "wrightwilliam@example.com",
+        "age": 18,
+        "gender": "female",
+        "products": ["b02ccb57-6223-4496-b94e-b0d4b7972f5c", "bcaf6405-2599-4498-a9a3-3245321c165f"]
+      },
+      {
+        "customerId": "3ce8ed90-7a2c-424a-8ba9-11d0a6d1ff1a",
+        "name": "Julie Johnson",
+        "email": "diana56@example.org",
+        "age": 22,
+        "gender": "female",
+        "products": ["e66c6666-4913-43b8-b77e-410e00c4e422"]
+      },
+      {
+        "customerId": "966433bc-dd77-4e6a-89c9-b222facd69ae",
+        "name": "Darren Klein",
+        "email": "christinabanks@example.org",
+        "age": 19,
+        "gender": "male",
+        "products": ["7f679b11-a953-4203-902e-5d7dc2d744f2", "d41cc709-c9a5-47ab-947f-655506aff6a1"]
+      },
+      {
+        "customerId": "2b8f70de-d864-44ed-8252-7fa4ea475970",
+        "name": "Julie Thompson",
+        "email": "jefferycontreras@example.org",
+        "age": 27,
+        "gender": "male",
+        "products": ["ea2c9075-f38c-43f7-a2a9-57fb827be4fc", "bcaf6405-2599-4498-a9a3-3245321c165f"]
+      },
+      {
+        "customerId": "69ba429e-3a99-488e-82a4-74b35d0d809a",
+        "name": "Sydney Johnson",
+        "email": "bradleycassandra@example.net",
+        "age": 41,
+        "gender": "female",
+        "products": ["859ac105-2617-43e4-ae00-5810aa5ddb56", "04baafd4-cf54-4808-be3b-811f0ffd5470"]
+      },
+      {
+        "customerId": "1460b0d5-dffc-415d-ac1f-5bf898773e38",
+        "name": "Angela Price",
+        "email": "melindamiller@example.net",
+        "age": 26,
+        "gender": "male",
+        "products": ["ea2c9075-f38c-43f7-a2a9-57fb827be4fc", "a0b1d45a-bf7f-43e6-8332-117f3c719b92"]
+      },
+      {
+        "customerId": "9466abd8-ab07-447a-99b4-ac2f888058cd",
+        "name": "Christopher Howell",
+        "email": "pamelahall@example.org",
+        "age": 28,
+        "gender": "male",
+        "products": ["ab417730-9e06-470f-9790-b8a1c315159b", "1a5a789d-3faf-4a75-b6c5-a1bed741e174"]
+      },
+      {
+        "customerId": "7827af35-2fe3-4b1e-82a3-98f1098e40a6",
+        "name": "Gregory Cortez",
+        "email": "lisawebb@example.net",
+        "age": 31,
+        "gender": "male",
+        "products": ["fc57f087-561d-4a7b-8486-4abd62396d4d", "30076fd4-b972-41c9-afa2-6faac08ae90d"]
+      },
+      {
+        "customerId": "56d27279-e2cb-4494-bc3a-f99dbc146b80",
+        "name": "Jacqueline Garcia",
+        "email": "henryjones@example.net",
+        "age": 52,
+        "gender": "female",
+        "products": ["a6184415-8d99-41ef-a7ca-68866a789153", "358b69e5-dc03-4dc3-b8d1-dca9cf6f0eb8"]
+      },
+      {
+        "customerId": "2fcb7821-d2b3-4b0f-b25a-ce14bad3cad8",
+        "name": "Lisa Price",
+        "email": "dylan00@example.org",
+        "age": 45,
+        "gender": "male",
+        "products": [
+          "e030e8d2-c086-46d2-80c0-d95e6fc3bde7",
+          "57f743fb-8b90-413e-bedf-8fd3108a0206",
+          "effb8438-d941-4b16-b6f7-bf69da6722fe"
+        ]
+      },
+      {
+        "customerId": "f3ca3bb6-4520-4aa8-b3f9-fea569946e1f",
+        "name": "Kevin Perry",
+        "email": "erodriguez@example.com",
+        "age": 61,
+        "gender": "female",
+        "products": ["a6184415-8d99-41ef-a7ca-68866a789153", "338b7bd0-f526-4874-8f57-07374d65d3d6"]
+      },
+      {
+        "customerId": "305e3962-f14b-4888-b2b3-cde718f4a971",
+        "name": "Justin Kelly",
+        "email": "jbooth@example.org",
+        "age": 47,
+        "gender": "male",
+        "products": ["e126868f-9302-4c10-9560-7898b34af4db", "9c018401-7da3-445c-9a31-c6f815855c1a"]
+      },
+      {
+        "customerId": "135e8fdf-8009-4586-993c-5342dd6c5b17",
+        "name": "Ryan Stafford",
+        "email": "vsmith@example.org",
+        "age": 51,
+        "gender": "male",
+        "products": ["6ffd27d7-56f3-47dd-9ce6-10eb320da31e", "fd181be8-909b-4049-8198-6a538dd9f558"]
+      },
+      {
+        "customerId": "14c0aa0d-48b3-49d0-8ace-9e1e666adc87",
+        "name": "Bill Fuller",
+        "email": "uwolf@example.com",
+        "age": 63,
+        "gender": "male",
+        "products": ["4d1a093c-8981-4a60-a8c9-eccc40283a19"]
+      },
+      {
+        "customerId": "05844fc9-ef8e-4f80-8925-f30ee0afad4d",
+        "name": "James Miller",
+        "email": "crystal42@example.org",
+        "age": 51,
+        "gender": "male",
+        "products": ["e126868f-9302-4c10-9560-7898b34af4db"]
+      },
+      {
+        "customerId": "1d0ade77-0833-4168-abb0-24425230756d",
+        "name": "Stephen Schultz",
+        "email": "jjohnson@example.com",
+        "age": 40,
+        "gender": "female",
+        "products": ["effb8438-d941-4b16-b6f7-bf69da6722fe", "fa0f521a-cc1e-4ce8-a50d-b0a1605c7424"]
+      },
+      {
+        "customerId": "8888b06b-d75e-4015-b081-07614c27346e",
+        "name": "William Walker",
+        "email": "fjohnson@example.org",
+        "age": 65,
+        "gender": "female",
+        "products": [
+          "358b69e5-dc03-4dc3-b8d1-dca9cf6f0eb8",
+          "04baafd4-cf54-4808-be3b-811f0ffd5470",
+          "859ac105-2617-43e4-ae00-5810aa5ddb56",
+          "4d1a093c-8981-4a60-a8c9-eccc40283a19"
+        ]
+      },
+      {
+        "customerId": "9c457773-06d0-4ae4-8032-f395b8d21253",
+        "name": "Janet Miller",
+        "email": "michael82@example.org",
+        "age": 35,
+        "gender": "male",
+        "products": [
+          "034a0562-3b2c-4ea5-a656-f819109d7405",
+          "cae33bcb-1d4f-454d-a162-9d0705f3ec8a",
+          "05e26784-00a4-4635-9bd2-3884b44899cb",
+          "f155e82e-014f-42b6-8333-e91b9c8a1162"
+        ]
+      },
+      {
+        "customerId": "479cf956-3742-4a2e-8d86-8b7798c41b7c",
+        "name": "Cody Moore",
+        "email": "vjacobs@example.net",
+        "age": 53,
+        "gender": "male",
+        "products": [
+          "a9965dfd-182a-4744-a087-9586393d997c",
+          "57f743fb-8b90-413e-bedf-8fd3108a0206",
+          "f792cea7-23be-4701-83c3-924cf98977c1"
+        ]
+      },
+      {
+        "customerId": "e3b6fd62-dcb7-4314-9dc0-5ca0aa6d08a8",
+        "name": "Bethany Hines",
+        "email": "anacopeland@example.org",
+        "age": 31,
+        "gender": "female",
+        "products": [
+          "a6947aac-63d5-46cd-b2c6-af98e939a194",
+          "a9965dfd-182a-4744-a087-9586393d997c",
+          "a6184415-8d99-41ef-a7ca-68866a789153",
+          "e2a9566b-c986-4ac9-bab8-60ea58e401ea"
+        ]
+      },
+      {
+        "customerId": "6001dd9d-1d86-402b-a0e2-99f9dc6a3ab8",
+        "name": "Christina Hansen",
+        "email": "soniafloyd@example.net",
+        "age": 60,
+        "gender": "male",
+        "products": ["c281a0f5-a0d2-4285-b9ad-64e84b61be3d", "3becd0da-ed33-491c-9291-4b85ce7750f7"]
+      },
+      {
+        "customerId": "5df60df5-7d4d-417b-81b8-6b2d25831fad",
+        "name": "Nancy Graves",
+        "email": "villarrealjenna@example.net",
+        "age": 47,
+        "gender": "female",
+        "products": ["effb8438-d941-4b16-b6f7-bf69da6722fe", "338b7bd0-f526-4874-8f57-07374d65d3d6"]
+      },
+      {
+        "customerId": "f5342181-e225-4e37-827f-c7a70cf9a7da",
+        "name": "Tiffany Mosley",
+        "email": "nelsonelizabeth@example.net",
+        "age": 40,
+        "gender": "female",
+        "products": ["fc57f087-561d-4a7b-8486-4abd62396d4d", "c6e2f8fd-7ffd-45fb-a35e-70519841715b"]
+      },
+      {
+        "customerId": "3de6733c-7fb1-4610-82a1-6768be3de980",
+        "name": "Evelyn Melton",
+        "email": "michaellee@example.com",
+        "age": 24,
+        "gender": "male",
+        "products": ["c82f9ef5-6ab0-4b54-885b-7963f00b6144", "a0b1d45a-bf7f-43e6-8332-117f3c719b92"]
+      },
+      {
+        "customerId": "352bb5a7-9592-4209-b0c0-061ada6430f9",
+        "name": "Gregory Cross",
+        "email": "matthewsimon@example.net",
+        "age": 48,
+        "gender": "female",
+        "products": [
+          "358b69e5-dc03-4dc3-b8d1-dca9cf6f0eb8",
+          "84dd7781-899b-4f8e-81c0-570e11732987",
+          "fd181be8-909b-4049-8198-6a538dd9f558"
+        ]
+      },
+      {
+        "customerId": "4b9f3357-d3cd-4033-8981-2f579849efec",
+        "name": "Kevin Scott",
+        "email": "asnyder@example.org",
+        "age": 31,
+        "gender": "female",
+        "products": ["b02ccb57-6223-4496-b94e-b0d4b7972f5c", "85711bc3-f2fb-4d36-9f39-6f80b2d12045"]
+      },
+      {
+        "customerId": "16511f04-7ba4-435c-bb4f-38b021b3a691",
+        "name": "Jacqueline Mays",
+        "email": "rubenwallace@example.com",
+        "age": 19,
+        "gender": "female",
+        "products": [
+          "85711bc3-f2fb-4d36-9f39-6f80b2d12045",
+          "495ca07e-64ad-4038-857e-f40be4ca575b",
+          "c82f9ef5-6ab0-4b54-885b-7963f00b6144"
+        ]
+      },
+      {
+        "customerId": "c74c0998-d1a0-482f-8c05-3fdcb285631a",
+        "name": "Kelsey Walker",
+        "email": "gonzalestasha@example.net",
+        "age": 25,
+        "gender": "female",
+        "products": ["11e98d0f-c3ef-452a-b0d1-9147fc876c00"]
+      },
+      {
+        "customerId": "4cb438fd-b4b0-4d8e-8b32-9af96953f232",
+        "name": "Mark Meyer",
+        "email": "amichael@example.org",
+        "age": 23,
+        "gender": "male",
+        "products": [
+          "a0e7dcf7-fd9c-418a-ab1e-ffaab17f7a6a",
+          "dcb0ff20-2473-4da3-bd1a-135c65593992",
+          "5c80050e-ee27-49c9-a65d-83cc3457d5a6"
+        ]
+      },
+      {
+        "customerId": "608bc164-64af-4563-9879-9f48eecf4f9e",
+        "name": "John Franco",
+        "email": "vturner@example.org",
+        "age": 28,
+        "gender": "female",
+        "products": ["859ac105-2617-43e4-ae00-5810aa5ddb56"]
+      },
+      {
+        "customerId": "f301db71-5613-44a7-ad7a-046ed6587334",
+        "name": "Jaime Wolf",
+        "email": "lisa11@example.net",
+        "age": 22,
+        "gender": "female",
+        "products": ["bcaf6405-2599-4498-a9a3-3245321c165f", "9850f5eb-c18d-4916-b891-f6c81bb207e2"]
+      },
+      {
+        "customerId": "ef989f2c-70fe-4e0a-a3ef-7a0052002c30",
+        "name": "Susan Cortez",
+        "email": "ewise@example.org",
+        "age": 18,
+        "gender": "male",
+        "products": ["db309ec3-1b2c-4d88-b57c-3567ab13ce20", "8fe62661-032a-44d2-980a-2c9fac95c222"]
+      },
+      {
+        "customerId": "ab7c4d70-f72b-484a-a5b2-2ecc298fb90c",
+        "name": "Glenn Owen",
+        "email": "kdavidson@example.net",
+        "age": 37,
+        "gender": "female",
+        "products": ["effb8438-d941-4b16-b6f7-bf69da6722fe", "e2a9566b-c986-4ac9-bab8-60ea58e401ea"]
+      },
+      {
+        "customerId": "22530dc5-217f-4e42-8968-43f8934bb3f5",
+        "name": "Melissa Blake",
+        "email": "taylorsteven@example.org",
+        "age": 43,
+        "gender": "female",
+        "products": ["a6947aac-63d5-46cd-b2c6-af98e939a194"]
+      },
+      {
+        "customerId": "3a32bf74-d967-409d-a23c-be2bb639b90b",
+        "name": "Ashley Thompson",
+        "email": "tammymann@example.org",
+        "age": 60,
+        "gender": "male",
+        "products": ["c281a0f5-a0d2-4285-b9ad-64e84b61be3d"]
+      },
+      {
+        "customerId": "d78eb3f3-5cb7-4c77-9256-48978421c48a",
+        "name": "Chelsea Carter",
+        "email": "ghill@example.com",
+        "age": 58,
+        "gender": "male",
+        "products": ["773e1ad7-a154-4ee8-92f2-c934352a0c43", "4d1a093c-8981-4a60-a8c9-eccc40283a19"]
+      },
+      {
+        "customerId": "ee080c80-2560-46b3-9a0f-6a1f3bc9f22f",
+        "name": "Jared Barnett",
+        "email": "mhernandez@example.com",
+        "age": 45,
+        "gender": "male",
+        "products": [
+          "57f743fb-8b90-413e-bedf-8fd3108a0206",
+          "773e1ad7-a154-4ee8-92f2-c934352a0c43",
+          "4d1a093c-8981-4a60-a8c9-eccc40283a19",
+          "a9965dfd-182a-4744-a087-9586393d997c"
+        ]
+      },
+      {
+        "customerId": "d6d58e34-c099-4bda-9eef-4ef15964dc89",
+        "name": "Allison Rodriguez",
+        "email": "brandijordan@example.com",
+        "age": 47,
+        "gender": "male",
+        "products": [
+          "b9f59631-7edc-437a-ae6f-9e76ff211616",
+          "3becd0da-ed33-491c-9291-4b85ce7750f7",
+          "55d547e8-e2a9-475d-9eff-fa4050ab3add",
+          "f792cea7-23be-4701-83c3-924cf98977c1"
+        ]
+      },
+      {
+        "customerId": "32bbdd43-1902-4581-98c8-f5c273b9348e",
+        "name": "Amy Dalton",
+        "email": "linda71@example.org",
+        "age": 20,
+        "gender": "female",
+        "products": [
+          "034a0562-3b2c-4ea5-a656-f819109d7405",
+          "c6e2f8fd-7ffd-45fb-a35e-70519841715b",
+          "495ca07e-64ad-4038-857e-f40be4ca575b"
+        ]
+      },
+      {
+        "customerId": "ab20e7cc-0f36-4af6-8618-ed1185b6d2eb",
+        "name": "Aimee Jensen",
+        "email": "lawsonmanuel@example.com",
+        "age": 34,
+        "gender": "female",
+        "products": ["c281a0f5-a0d2-4285-b9ad-64e84b61be3d", "6f938d8f-9176-45a8-b78b-0c584e3fa1bb"]
+      },
+      {
+        "customerId": "41597b87-b8fc-48b1-bbca-c5a250d55732",
+        "name": "Joshua Smith",
+        "email": "jamesharris@example.net",
+        "age": 39,
+        "gender": "female",
+        "products": [
+          "859ac105-2617-43e4-ae00-5810aa5ddb56",
+          "fa0f521a-cc1e-4ce8-a50d-b0a1605c7424",
+          "b02ccb57-6223-4496-b94e-b0d4b7972f5c"
+        ]
+      },
+      {
+        "customerId": "4ee2ca7d-92af-42fe-a73a-48c70deb0ed8",
+        "name": "Emily Reed",
+        "email": "ryanellis@example.com",
+        "age": 21,
+        "gender": "female",
+        "products": ["11e98d0f-c3ef-452a-b0d1-9147fc876c00"]
+      },
+      {
+        "customerId": "7ab2e9de-f339-45e1-9dd6-f9c08f78b66d",
+        "name": "Zachary Cook DDS",
+        "email": "chanwalter@example.org",
+        "age": 24,
+        "gender": "male",
+        "products": ["034a0562-3b2c-4ea5-a656-f819109d7405", "ea2c9075-f38c-43f7-a2a9-57fb827be4fc"]
+      },
+      {
+        "customerId": "35a6ce8d-6d58-4867-8791-2f87b5e854f1",
+        "name": "Ryan Thompson",
+        "email": "debra47@example.com",
+        "age": 33,
+        "gender": "female",
+        "products": ["338b7bd0-f526-4874-8f57-07374d65d3d6"]
+      },
+      {
+        "customerId": "d5caf74b-2df9-4f27-a440-a84d4cfc5d1c",
+        "name": "Noah Turner",
+        "email": "nmarshall@example.org",
+        "age": 60,
+        "gender": "male",
+        "products": [
+          "e030e8d2-c086-46d2-80c0-d95e6fc3bde7",
+          "c843ba02-4f2f-4d6c-98de-e4948cc70d9b",
+          "4f72bf04-002b-4f21-89c4-049971af5bdf",
+          "4d1a093c-8981-4a60-a8c9-eccc40283a19"
+        ]
+      },
+      {
+        "customerId": "91d0dc13-fd5c-4df6-97ea-609cf872f7ed",
+        "name": "Anna Berry",
+        "email": "dbradley@example.org",
+        "age": 29,
+        "gender": "female",
+        "products": ["fc57f087-561d-4a7b-8486-4abd62396d4d", "a6184415-8d99-41ef-a7ca-68866a789153"]
+      },
+      {
+        "customerId": "cd07d6a7-9551-4ceb-8ed9-293003c7ffab",
+        "name": "Mark Payne",
+        "email": "uward@example.net",
+        "age": 58,
+        "gender": "female",
+        "products": ["1a5a789d-3faf-4a75-b6c5-a1bed741e174", "a6184415-8d99-41ef-a7ca-68866a789153"]
+      },
+      {
+        "customerId": "a6d6da83-3405-402d-bdb6-dd90ad3b7715",
+        "name": "Victoria Hester",
+        "email": "beth57@example.com",
+        "age": 44,
+        "gender": "male",
+        "products": ["f0e84a85-dc51-4cfc-a6de-88c0cda2a194", "c281a0f5-a0d2-4285-b9ad-64e84b61be3d"]
+      },
+      {
+        "customerId": "7abd8d48-55c1-47c7-a424-d5630f9fae96",
+        "name": "Christian Schmidt",
+        "email": "ericgallagher@example.net",
+        "age": 28,
+        "gender": "male",
+        "products": [
+          "74d757d2-4b82-4f7b-964d-1816f51bf8c0",
+          "a0b1d45a-bf7f-43e6-8332-117f3c719b92",
+          "a0e7dcf7-fd9c-418a-ab1e-ffaab17f7a6a",
+          "a60ff54e-216f-4f94-86b0-7d00692ca069"
+        ]
+      },
+      {
+        "customerId": "733e5149-45b3-41c9-8aab-b4e7077fcada",
+        "name": "Suzanne Reeves",
+        "email": "lloydmatthew@example.net",
+        "age": 23,
+        "gender": "female",
+        "products": ["74d757d2-4b82-4f7b-964d-1816f51bf8c0"]
+      },
+      {
+        "customerId": "d083a06d-ecea-4778-b5b1-c2c71f2faf04",
+        "name": "Christine Williams",
+        "email": "sanchezbrett@example.net",
+        "age": 48,
+        "gender": "female",
+        "products": ["6ffd27d7-56f3-47dd-9ce6-10eb320da31e", "4d1a093c-8981-4a60-a8c9-eccc40283a19"]
+      },
+      {
+        "customerId": "58be65da-64aa-4146-9dc9-432163eb18ad",
+        "name": "Patrick Edwards",
+        "email": "brittany54@example.org",
+        "age": 21,
+        "gender": "female",
+        "products": [
+          "020e1611-398b-4bbb-aaf4-0985181fd6f0",
+          "1e0acd16-29b2-4831-a47a-8702f12fe07b",
+          "b6d25500-85f7-4521-833a-106180feee2d",
+          "a0e7dcf7-fd9c-418a-ab1e-ffaab17f7a6a"
+        ]
+      },
+      {
+        "customerId": "f0408178-14ac-40e9-9ccb-661b93794f84",
+        "name": "Amy Gomez",
+        "email": "kleindavid@example.net",
+        "age": 60,
+        "gender": "female",
+        "products": ["a9965dfd-182a-4744-a087-9586393d997c"]
+      },
+      {
+        "customerId": "30eead49-dca4-447a-b3ce-26a3a9380cb1",
+        "name": "Robert Hood",
+        "email": "annette17@example.org",
+        "age": 26,
+        "gender": "male",
+        "products": ["ea2c9075-f38c-43f7-a2a9-57fb827be4fc"]
+      },
+      {
+        "customerId": "89f53aa4-0bc3-4b25-a663-a0da7075f045",
+        "name": "Robert Anderson",
+        "email": "jennifertanner@example.net",
+        "age": 59,
+        "gender": "male",
+  
+        "products": ["c281a0f5-a0d2-4285-b9ad-64e84b61be3d", "338b7bd0-f526-4874-8f57-07374d65d3d6"]
+      },
+      {
+        "customerId": "77df2b9e-79ff-47f2-8aad-9cf45b852ab2",
+        "name": "Bradley Knight",
+        "email": "scottosborne@example.com",
+        "age": 63,
+        "gender": "male",
+  
+        "products": ["57f743fb-8b90-413e-bedf-8fd3108a0206", "f792cea7-23be-4701-83c3-924cf98977c1"]
+      },
+      {
+        "customerId": "539afcf0-5bad-462a-8f36-a51532c1a9cb",
+        "name": "Mike Rice",
+        "email": "robert22@example.com",
+        "age": 51,
+        "gender": "female",
+  
+        "products": [
+          "3becd0da-ed33-491c-9291-4b85ce7750f7",
+          "6ffd27d7-56f3-47dd-9ce6-10eb320da31e",
+          "a9965dfd-182a-4744-a087-9586393d997c"
+        ]
+      },
+      {
+        "customerId": "73d6bc44-ae61-40de-bc8c-e837304e193e",
+        "name": "Anthony Cohen",
+        "email": "dbaker@example.org",
+        "age": 32,
+        "gender": "female",
+  
+        "products": ["c6e2f8fd-7ffd-45fb-a35e-70519841715b", "ca7129c3-bb26-4161-bb5d-10f68733e0c6"]
+      },
+      {
+        "customerId": "4f47b0e1-d57e-4601-b24b-5692f99ab401",
+        "name": "Katrina Scott",
+        "email": "thomasmcbride@example.net",
+        "age": 59,
+        "gender": "female",
+  
+        "products": [
+          "a6947aac-63d5-46cd-b2c6-af98e939a194",
+          "fd181be8-909b-4049-8198-6a538dd9f558",
+          "04baafd4-cf54-4808-be3b-811f0ffd5470",
+          "b9f59631-7edc-437a-ae6f-9e76ff211616"
+        ]
+      },
+      {
+        "customerId": "6016ca12-e7d6-442e-9056-ecfaa2ae0dd3",
+        "name": "Matthew Johnson",
+        "email": "aliciahunt@example.net",
+        "age": 53,
+        "gender": "male",
+  
+        "products": [
+          "84dd7781-899b-4f8e-81c0-570e11732987",
+          "6f938d8f-9176-45a8-b78b-0c584e3fa1bb",
+          "04baafd4-cf54-4808-be3b-811f0ffd5470"
+        ]
+      },
+      {
+        "customerId": "b8e4a563-ab2f-4ec6-ba2e-7c54047bf37b",
+        "name": "Roger Savage",
+        "email": "burnscheryl@example.com",
+        "age": 18,
+        "gender": "male",
+  
+        "products": [
+          "c7619e0c-c2ad-4a78-b280-b84a9a161318",
+          "72384ab9-47db-4352-bf34-8a3bbc0885fa",
+          "5c80050e-ee27-49c9-a65d-83cc3457d5a6"
+        ]
+      },
+      {
+        "customerId": "919d618c-fe9c-4e7d-ac10-562749272465",
+        "name": "Tonya Farrell",
+        "email": "fbenton@example.com",
+        "age": 37,
+        "gender": "male",
+  
+        "products": [
+          "7f8de3cd-755a-4e1d-9ec8-99c2d1744b22",
+          "1b0ba82c-b4f4-4787-949f-6e3867f2d1f5",
+          "1a5a789d-3faf-4a75-b6c5-a1bed741e174"
+        ]
+      },
+      {
+        "customerId": "da581f36-0072-48c3-b668-39948f4fd2aa",
+        "name": "Emily Berg",
+        "email": "rodriguezstacie@example.com",
+        "age": 48,
+        "gender": "male",
+  
+        "products": [
+          "84dd7781-899b-4f8e-81c0-570e11732987",
+          "effb8438-d941-4b16-b6f7-bf69da6722fe",
+          "04baafd4-cf54-4808-be3b-811f0ffd5470"
+        ]
+      },
+      {
+        "customerId": "5fd7158e-9f79-4d56-82a8-e3a8df88025b",
+        "name": "Melvin Lee",
+        "email": "theresa04@example.org",
+        "age": 23,
+        "gender": "male",
+  
+        "products": [
+          "db309ec3-1b2c-4d88-b57c-3567ab13ce20",
+          "69571681-c134-4c07-bd3b-21efaffdce52",
+          "c82f9ef5-6ab0-4b54-885b-7963f00b6144",
+          "8fe62661-032a-44d2-980a-2c9fac95c222"
+        ]
+      },
+      {
+        "customerId": "266947ec-e9fb-410b-9099-c43b0b0bd97f",
+        "name": "Vanessa Park",
+        "email": "benjaminmartinez@example.net",
+        "age": 64,
+        "gender": "male",
+  
+        "products": ["358b69e5-dc03-4dc3-b8d1-dca9cf6f0eb8", "338b7bd0-f526-4874-8f57-07374d65d3d6"]
+      },
+      {
+        "customerId": "3aae4291-f1ea-40ab-8d03-0f41746a9fe2",
+        "name": "Diana Hicks",
+        "email": "amanda45@example.org",
+        "age": 21,
+        "gender": "female",
+  
+        "products": [
+          "bb816191-4744-4d41-b024-0dd5f356393c",
+          "034a0562-3b2c-4ea5-a656-f819109d7405",
+          "d5ee3bad-fb70-4184-b28c-6b9a965e70b6"
+        ]
+      },
+      {
+        "customerId": "e00b2157-1be9-4623-9194-cdc02f156419",
+        "name": "Brandi Clark MD",
+        "email": "tara67@example.net",
+        "age": 36,
+        "gender": "female",
+  
+        "products": ["effb8438-d941-4b16-b6f7-bf69da6722fe"]
+      },
+      {
+        "customerId": "991db2bf-16bf-425b-a3e8-fcef1be8bbb8",
+        "name": "Ashley Mahoney",
+        "email": "xwhite@example.org",
+        "age": 28,
+        "gender": "female",
+  
+        "products": ["495ca07e-64ad-4038-857e-f40be4ca575b", "338b7bd0-f526-4874-8f57-07374d65d3d6"]
+      },
+      {
+        "customerId": "b1cd9571-4467-4f26-bf70-4d1d3885d3dd",
+        "name": "Anthony Davidson",
+        "email": "qhicks@example.net",
+        "age": 52,
+        "gender": "male",
+  
+        "products": [
+          "773e1ad7-a154-4ee8-92f2-c934352a0c43",
+          "f0e84a85-dc51-4cfc-a6de-88c0cda2a194",
+          "effb8438-d941-4b16-b6f7-bf69da6722fe"
+        ]
+      },
+      {
+        "customerId": "1e7a128f-e244-43c2-9331-00a3ef029305",
+        "name": "Robert Perkins",
+        "email": "helenhamilton@example.com",
+        "age": 48,
+        "gender": "female",
+  
+        "products": ["3becd0da-ed33-491c-9291-4b85ce7750f7", "6ffd27d7-56f3-47dd-9ce6-10eb320da31e"]
+      },
+      {
+        "customerId": "69fa234a-34e8-42f6-862b-df79fe6a9842",
+        "name": "Vincent Long",
+        "email": "thomasdanielle@example.com",
+        "age": 26,
+        "gender": "female",
+  
+        "products": ["a6184415-8d99-41ef-a7ca-68866a789153", "3becd0da-ed33-491c-9291-4b85ce7750f7"]
+      },
+      {
+        "customerId": "13f8ed34-30f8-437b-8ab5-cdd8bbb17ab2",
+        "name": "Sandra Harvey",
+        "email": "nancy86@example.net",
+        "age": 37,
+        "gender": "male",
+  
+        "products": [
+          "c6e2f8fd-7ffd-45fb-a35e-70519841715b",
+          "ee5a859f-6af2-48a7-8373-b55f5b0874da",
+          "7f8de3cd-755a-4e1d-9ec8-99c2d1744b22"
+        ]
+      },
+      {
+        "customerId": "078cea9f-8292-4fb6-942a-80a235f6a167",
+        "name": "Ashley Underwood",
+        "email": "sellerswanda@example.com",
+        "age": 36,
+        "gender": "female",
+  
+        "products": ["1a5a789d-3faf-4a75-b6c5-a1bed741e174"]
+      },
+      {
+        "customerId": "8f3d317a-a341-4669-96f2-f8364457949e",
+        "name": "John Smith",
+        "email": "sonyamiller@example.org",
+        "age": 29,
+        "gender": "female",
+  
+        "products": [
+          "85711bc3-f2fb-4d36-9f39-6f80b2d12045",
+          "c6e2f8fd-7ffd-45fb-a35e-70519841715b",
+          "a6184415-8d99-41ef-a7ca-68866a789153"
+        ]
+      },
+      {
+        "customerId": "a4a25dd8-da95-4430-9843-c5c99f5cf826",
+        "name": "Jason Barrett",
+        "email": "lauraleach@example.net",
+        "age": 20,
+        "gender": "male",
+  
+        "products": ["9ba38646-6cf0-4e55-9bfd-c85a04155650", "78d077c4-61dd-4bf8-88dc-bd568f788f6c"]
+      },
+      {
+        "customerId": "92f6c3c7-920d-4c19-826b-f27e8b9e65f0",
+        "name": "Brian Brooks",
+        "email": "iharper@example.net",
+        "age": 65,
+        "gender": "male",
+  
+        "products": [
+          "55d547e8-e2a9-475d-9eff-fa4050ab3add",
+          "773e1ad7-a154-4ee8-92f2-c934352a0c43",
+          "ab417730-9e06-470f-9790-b8a1c315159b"
+        ]
+      },
+      {
+        "customerId": "83c4d3f5-1b0a-4b96-b312-8f5a5f164ba1",
+        "name": "Brent Olson",
+        "email": "kevin27@example.org",
+        "age": 63,
+        "gender": "male",
+  
+        "products": ["e126868f-9302-4c10-9560-7898b34af4db"]
+      },
+      {
+        "customerId": "ff68a4ed-6c60-4635-a0b9-e52f7850327e",
+        "name": "David Ochoa",
+        "email": "dmorris@example.com",
+        "age": 52,
+        "gender": "male",
+  
+        "products": ["55d547e8-e2a9-475d-9eff-fa4050ab3add", "f792cea7-23be-4701-83c3-924cf98977c1"]
+      },
+      {
+        "customerId": "b3411df8-9acf-4ac3-b4c2-9ad56533dcff",
+        "name": "Justin Hernandez",
+        "email": "dgriffin@example.com",
+        "age": 38,
+        "gender": "female",
+  
+        "products": [
+          "ca7129c3-bb26-4161-bb5d-10f68733e0c6",
+          "6ffd27d7-56f3-47dd-9ce6-10eb320da31e",
+          "fd181be8-909b-4049-8198-6a538dd9f558"
+        ]
+      },
+      {
+        "customerId": "89974c02-2c4c-4c53-9cc8-7fbdc0d0b95f",
+        "name": "Regina Salazar",
+        "email": "haynesmichael@example.net",
+        "age": 36,
+        "gender": "female",
+  
+        "products": ["fc57f087-561d-4a7b-8486-4abd62396d4d"]
+      },
+      {
+        "customerId": "8a2d9f74-81fe-4cc6-b28f-1ac3ac374ecd",
+        "name": "Jeffrey Snyder",
+        "email": "allen57@example.com",
+        "age": 57,
+        "gender": "female",
+  
+        "products": [
+          "effb8438-d941-4b16-b6f7-bf69da6722fe",
+          "c281a0f5-a0d2-4285-b9ad-64e84b61be3d",
+          "fd181be8-909b-4049-8198-6a538dd9f558"
+        ]
+      },
+      {
+        "customerId": "ab17446e-6505-4625-9933-80de2a1bd1bc",
+        "name": "Derek Ray",
+        "email": "brian88@example.org",
+        "age": 53,
+        "gender": "female",
+  
+        "products": ["4d1a093c-8981-4a60-a8c9-eccc40283a19", "a6947aac-63d5-46cd-b2c6-af98e939a194"]
+      },
+      {
+        "customerId": "cb576996-7397-4f15-ac4b-4a4b3066e974",
+        "name": "Lori Ray",
+        "email": "brownpeter@example.org",
+        "age": 26,
+        "gender": "male",
+  
+        "products": [
+          "f966934e-883e-4c6f-ab34-aeeeb764ccc7",
+          "bcaf6405-2599-4498-a9a3-3245321c165f",
+          "020e1611-398b-4bbb-aaf4-0985181fd6f0"
+        ]
+      },
+      {
+        "customerId": "9dd4627a-1b13-4be4-9567-78d68460d777",
+        "name": "Jeremy Pena",
+        "email": "earnold@example.org",
+        "age": 56,
+        "gender": "male",
+  
+        "products": ["358b69e5-dc03-4dc3-b8d1-dca9cf6f0eb8", "a6184415-8d99-41ef-a7ca-68866a789153"]
+      },
+      {
+        "customerId": "58789804-5707-4060-bf4c-5d76dacb048b",
+        "name": "Michelle Beck",
+        "email": "charlescampbell@example.org",
+        "age": 52,
+        "gender": "male",
+  
+        "products": [
+          "55d547e8-e2a9-475d-9eff-fa4050ab3add",
+          "57f743fb-8b90-413e-bedf-8fd3108a0206",
+          "6f938d8f-9176-45a8-b78b-0c584e3fa1bb",
+          "6ffd27d7-56f3-47dd-9ce6-10eb320da31e"
+        ]
+      },
+      {
+        "customerId": "4c5f7286-923d-4b59-a64b-4cecbf145400",
+        "name": "Frederick Lowe",
+        "email": "cbowman@example.org",
+        "age": 43,
+        "gender": "female",
+  
+        "products": [
+          "a9965dfd-182a-4744-a087-9586393d997c",
+          "859ac105-2617-43e4-ae00-5810aa5ddb56",
+          "3becd0da-ed33-491c-9291-4b85ce7750f7"
+        ]
+      },
+      {
+        "customerId": "8e44845d-e683-47f2-8617-66314a1be0e1",
+        "name": "Justin Lee",
+        "email": "vhatfield@example.com",
+        "age": 33,
+        "gender": "male",
+  
+        "products": [
+          "9850f5eb-c18d-4916-b891-f6c81bb207e2",
+          "11e98d0f-c3ef-452a-b0d1-9147fc876c00",
+          "a60ff54e-216f-4f94-86b0-7d00692ca069"
+        ]
+      },
+      {
+        "customerId": "cbe3187f-6988-45fb-b713-12d7032695bb",
+        "name": "Courtney Aguirre",
+        "email": "michaelabaxter@example.org",
+        "age": 61,
+        "gender": "male",
+  
+        "products": ["04baafd4-cf54-4808-be3b-811f0ffd5470"]
+      }
+    ]
+  }
+  
