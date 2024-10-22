@@ -7,7 +7,7 @@
 
 ## 2. Component Description
 
-- **Component Name**: Inventory Management
+- **Component Name**: Checkout and Payment Flow
 - **Component Purpose**:
   - [Provide a brief description of what this backend component does, its role in the overall system, and any important functionality it handles.]
 
