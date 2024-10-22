@@ -7,7 +7,7 @@
 
 ## 2. Component Description
 
-- **Component Name**: [Component name goes here]
+- **Component Name**: Inventory Management
 - **Component Purpose**:
   - [Provide a brief description of what this backend component does, its role in the overall system, and any important functionality it handles.]
 
